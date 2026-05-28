@@ -1,6 +1,6 @@
 ---
 title: "Virtual Pet Simulator"
-excerpt: "CLI Java virtual pet simulation <br/><img src='/images/500x300.png'>"
+excerpt: "CLI Java virtual pet simulation <br/><img src='/images/virtual-pet.jpg'>"
 collection: portfolio
 ---
 
