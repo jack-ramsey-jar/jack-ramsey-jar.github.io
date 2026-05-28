@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Jack Ramsey About Me"
+title: "Jack Ramsey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Jack Ramsey
-
 ## About Me
 I am a high school graduate from Richland High School in Richland, WA interested in technology, computer science, and game development.
 
