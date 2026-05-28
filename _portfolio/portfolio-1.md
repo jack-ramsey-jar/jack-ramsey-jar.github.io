@@ -1,6 +1,6 @@
 ---
 title: "CLI Task Manager"
-excerpt: "Command-line interface task manager<br/><img src='/images/500x300.png'>"
+excerpt: <br>"Command-line interface task manager"<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
