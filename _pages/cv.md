@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* High School Diploma, Richland High School, March 2023 - June 2026
+  * Relevant Coursework: AP Computer Science A, AP Calculus BC
 
-Work experience
+Professional Skills
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Problem Solving
+* Time Managment
+* Self-Directed Learning
+* Attention to Detail
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Technical Skills
+======
+* Java
+* Git & Github
+* Object-Oriented Programming
+* Data Structures and Algorithms
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Virtual Pet Game
+* Developed a command-line virtual pet simulation in Java using object-oriented programming with input validation and event/error handling.
+* Implemented time-based simulation mechanics using Java's scheduled task execution framework.
+* Created randomized game outcomes and progression mechanics based on pet age and user interactions.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Command Line Interface Task Manager
+* Developed a command-line application allowing users to create, organize, and track tasks.
+* Designed an object-oriented architecture to manage task data, priorities, deadlines, and completion status.
+* Implemented persistent data storage to save and restore task information between sessions.
+
+Car Repair Scheduler
+* Developed a basic command-line interface application allowing users to schedule car repairs with mechanics given that the mechanic is available and the repair is not occupied.
