@@ -4,4 +4,8 @@ excerpt: "Command-line interface task manager<br/><img src='/images/task-manager
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# CLI Task Manager
+- Created a command-line user interface application in Java allowing users to create, organize, and track tasks while managing task data, priorities, deadlines, and completion status.
+- Used object-oriented architecture
+- Learned user input-handling and scheduled task execution
+- Improved Java framework and event-handling knowledge
