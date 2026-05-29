@@ -4,4 +4,8 @@ excerpt: "AP CSA FRQ Solution<br/><img src='/images/car-repair.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Car Repair Scheduler
+- Developed a basic command-line interface application allowing users to schedule car repairs with mechanics given that the mechanic is available and the repair is not occupied.
+- Used ArrayLists
+- Learned and improved ArrayList knowledge.
+- Improved problem-solving skills.
